@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Magesh
 - 👀 I’m interested in Artifical Intelligence 
-- 🌱 I’m currently learning Graph Nets
-- 💞️ I’m looking to collaborate on Graph Nets
+- 💞️ I’m looking to collaborate on Graph Nets and GenAI
 - 📫 How to reach me Discord me at Magesh#5893
 
 <!---
